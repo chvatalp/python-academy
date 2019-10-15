@@ -1,4 +1,2 @@
 *.pyc                                       # Ignoruj všechny soubory s příponou .pyc
 .idea/                                      # Ignoruj všechny soubory v adresáři .idea/
-pyvenv.cfg                                  # Ignoruj soubor pyvenv.cfg
-venv/                                       # Ignoruj slozku venv
